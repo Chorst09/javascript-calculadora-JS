@@ -1,2 +1,3 @@
 # javascript-calculadora
- Projeto Calculadora
+ Projeto Calculadora Javascript
+ Julho 2022
